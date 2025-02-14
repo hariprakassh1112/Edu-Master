@@ -107,28 +107,10 @@ with each other and solve their doubts easily.
 
 ## Author
 
-- [amitsingh6391](https://github.com/amitsingh6391)
-
-
-## 🚀 About Me
-I'm a flutter developer...
+- [Hariprakassh](https://github.com/hariprakassh1112)
 
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://amitsingh6391.github.io)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-singh-023055193/)
-[![stackoverflow](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://stackoverflow.com/users/13051247/amit-singh)
-
-
-## Support
-
-For support, https://www.buymeacoffee.com/amitsingh6391
-
-
-## Demo
-
-https://play.google.com/store/apps/details?id=com.academic.master&hl=en_IN&gl=US
 
 
 ## Badges
